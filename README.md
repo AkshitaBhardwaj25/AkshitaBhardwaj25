@@ -1,16 +1,18 @@
-## Hi there 👋
+# Akshita Bhardwaj
 
-<!--
-**AkshitaBhardwaj25/AkshitaBhardwaj25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Machine Learning and Generative AI enthusiast with hands-on experience in building real-world applications. I enjoy transforming data into intelligent systems and continuously exploring how AI can solve practical problems.
 
-Here are some ideas to get you started:
+## 🔹 Key Projects
+- Smart Health Assistant - Integrated ML-based disease prediction with generative AI for interactive responses
+- Chatbot System - Built for handling user queries with focus on NLP and response generation
+- Air Quality Prediction - Performed EDA, preprocessing, and classification modeling for hazard prediction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Languages: Python, C++, SQL
+- Libraries/Tools: NumPy, Pandas, Scikit-learn
+- Core Areas: Machine Learning, Generative AI, Data Analysis, Data Structures
+
+I’m passionate about applying ML in real-world scenarios and constantly improving my understanding of models, optimization, and deployment.
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/akshita-bhardwaj-b1790b320/
